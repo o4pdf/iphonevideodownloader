@@ -113,7 +113,7 @@
       <Application_Order_URL>https://itunes.apple.com/app/id1116700053</Application_Order_URL>
       <Application_Screenshot_URL>http://www.udownload.io/img/iphone-video-downloader/iphone-video-downloader-640-1136.PNG</Application_Screenshot_URL>
       <Application_Icon_URL>http://www.udownload.io/img/iphone-video-downloader/iphone-video-downloader-icon.png</Application_Icon_URL>
-      <Application_XML_File_URL></Application_XML_File_URL>
+      <Application_XML_File_URL>http://www.udownload.io/iPhone_V_pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
       <Primary_Download_URL>https://itunes.apple.com/app/id1116700053</Primary_Download_URL>
